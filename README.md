@@ -16,15 +16,33 @@ Here are some ideas to get you started:
 -->
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/Ekaterina-DA/Ekaterina-DA/blob/8dac963a55de6388fded743fd9c45d7e62f627e9/chart.py]">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-https://github.com/Ekaterina-DA/Ekaterina-DA/blob/8dac963a55de6388fded743fd9c45d7e62f627e9/chart.py
 
-### Визуализация
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px;">
+  <!-- Блок со значками (слева) -->
+  <div >
+    <h3>🛠️ Языки и инструменты</h3>
+    <div style="flex: 1 1 35%; min-width: 10px; max-width: 1px;">
+  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL" title="SQL" alt="SQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-white?logo=Seaborn&logoColor=black&style=for-the-badge" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&logoColor=black&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Datalens-white?logo=Datalens&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API" title="API" alt="API" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
+</div>
+  </div>
 
-Пример кода для генерации анимированной гистограммы: [chart.py](https://github.com/Ekaterina-DA/Ekaterina-DA/blob/8dac963a55de6388fded743fd9c45d7e62f627e9/chart.py).
-
-Запустите этот скрипт локально или в Binder, чтобы увидеть анимацию.
+  <!-- Блок с гистограммой (справа) -->
+  <div style="flex: 0 0 65%; min-width: 30px; display: flex; align-items: center; justify-content: center;">
+    <img src="animation_histogram.gif" width="30%" style="max-width: 30px;" alt="Анимированная гистограмма">
+  </div>
+</div>
+<hr>
