@@ -22,3 +22,9 @@ Here are some ideas to get you started:
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 https://github.com/Ekaterina-DA/Ekaterina-DA/blob/8dac963a55de6388fded743fd9c45d7e62f627e9/chart.py
+
+### Визуализация
+
+Пример кода для генерации анимированной гистограммы: [chart.py](https://github.com/Ekaterina-DA/Ekaterina-DA/blob/8dac963a55de6388fded743fd9c45d7e62f627e9/chart.py).
+
+Запустите этот скрипт локально или в Binder, чтобы увидеть анимацию.
