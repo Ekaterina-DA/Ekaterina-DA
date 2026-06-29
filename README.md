@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/Ekaterina-DA/Ekaterina-DA/blob/8dac963a55de6388fded743fd9c45d7e62f627e9/chart.py)">
+ <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/Ekaterina-DA/Ekaterina-DA/blob/8dac963a55de6388fded743fd9c45d7e62f627e9/chart.py]">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
