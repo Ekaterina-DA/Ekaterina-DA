@@ -158,7 +158,7 @@ Here are some ideas to get you started:
         </a>
       </td>
       <td style="width: 30%; vertical-align: middle; padding: 15px; text-align: center;">
-        <img src="animation_histogram.gif" style="width: 50%; max-width: 400px; height: auto; display: block; margin: 0 auto; text-align: center;" alt="Анимированная гистограмма">
+        <img src="animation_histogram.gif" style="width: 50%; max-width: 400px; height: auto; display: block; margin: 0 auto; text-align: center;" alt="animation_histogram.gif">
       </td>
     </tr>
   </tbody>
