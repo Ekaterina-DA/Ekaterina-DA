@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-<div id="badges" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+
+<div id="badges" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;"><div id="badges" align="center">
+<h3>🛠️ Связь со мной:</h3>
 <a href="https://t.me/EkaterinaTimofieieva" >
 <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
 </a>
@@ -61,4 +63,104 @@ Here are some ideas to get you started:
 </div>
 
 
+
+
+<div style="text-align: center;">
+  <img src="animation_histogram.gif" style="width: 30%; max-width: 400px; height: auto;" alt="Анимированная гистограмма">
+</div>
+
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+  <tbody>
+    <tr>
+      <!-- Первый столбец: значки -->
+      <td style="width: 50%; min-width: 300px; vertical-align: middle; text-align: center; padding: 0 15px;">
+        <h3 style="margin: 0 0 15px 0; display: inline-block;">🛠️ Связь со мной:</h3>
+        <div id="badges" style="display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; width: 100%;">
+          <a href="https://t.me/EkaterinaTimofieieva" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+          </a>
+          <a href="mailto:tymofieieva.ekaterina@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+          </a>
+          <a href="https://max.ru/u/f9LHodD0cOKyYEMJy4JSJAB8no7lPabl9fRun12gHAP06bB9lBym6" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center;">
+            <img src="https://img.shields.io/badge/Max-green?style=for-the-badge" alt="Max" />
+          </a>
+        </div>
+      </td>
+
+      <!-- Второй столбец: гистограмма -->
+      <td style="width: 50%; min-width: 300px; vertical-align: middle; text-align: center; padding: 0 15px;">
+        <img src="animation_histogram.gif" style="width: 30%; max-width: 30px; height: auto;" alt="Анимированная гистограмма">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div id="badges" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;"><div id="badges" align="center">
+<h3>🛠️ Связь со мной:</h3>
+<a href="https://t.me/EkaterinaTimofieieva" >
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+</a>
+<a href="mailto:tymofieieva.ekaterina@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+</a>
+<!-- Вместо MAX — любой другой бейдж из shields.io -->
+<a href="https://max.ru/u/f9LHodD0cOKyYEMJy4JSJAB8no7lPabl9fRun12gHAP06bB9lBym6" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Max-green?style=for-the-badge&logo=slack&logoColor=white" alt="Max" />
+</a>
+</div>
+
+
+<!-- Контейнер с двумя колонками -->
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; margin-bottom: 20px;">
+
+  <!-- Левая колонка: заголовок и значки -->
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <h3 style="margin: 0 0 15px 0; text-align: center;">🛠️ Связь со мной:</h3>
+    <div id="badges" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+      <a href="https://t.me/EkaterinaTimofieieva" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+      </a>
+      <a href="mailto:tymofieieva.ekaterina@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+      </a>
+      <a href="https://max.ru/u/f9LHodD0cOKyYEMJy4JSJAB8no7lPabl9fRun12gHAP06bB9lBym6" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center;">
+        <img src="https://img.shields.io/badge/Max-green?style=for-the-badge" alt="Max" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Правая колонка: гистограмма по центру -->
+  <div style="flex: 1 1 45%; min-width: 300px; display: flex; justify-content: center; align-items: center;">
+    <img src="animation_histogram.gif" style="width: 100%; max-width: 500px; height: auto;" alt="Анимированная гистограмма">
+  </div>
+</div>
+
+
+| Связь со мной | Гистограмма |
+| --- | --- |
+| ���*Связь со мной:**<br><br>[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/EkaterinaTimofieieva)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tymofieieva.ekaterina@gmail.com)&nbsp;&nbsp;[![Max](https://img.shields.io/badge/Max-green?style=for-the-badge)](https://max.ru/u/f9LHodD0cOKyYEMJy4JSJAB8no7lPabl9fRun12gHAP06bB9lBym6) | <img src="animation_histogram.gif" style="width: 30%; max-width: 400px; height: auto;" alt="Анимированная гистограмма"> |
+
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">  
+      <tr>
+      <td style="width: 100%; vertical-align: top; padding: 0px;  ">
+        <h3 style="margin: 0 0 2px 0;  padding: 0px; ">☎️ Связь со мной:</h3><br>
+        <a href="https://t.me/EkaterinaTimofieieva" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+        </a>&nbsp;&nbsp;
+        <a href="mailto:tymofieieva.ekaterina@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+        </a>&nbsp;&nbsp;
+        <a href="https://max.ru/u/f9LHodD0cOKyYEMJy4JSJAB8no7lPabl9fRun12gHAP06bB9lBym6" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Max-green?style=for-the-badge" alt="Max" />
+        </a>
+      </td>
+      <td style="width: 30%; vertical-align: middle; padding: 15px; text-align: center;">
+        <img src="animation_histogram.gif" style="width: 50%; max-width: 400px; height: auto; display: block; margin: 0 auto; text-align: center;" alt="Анимированная гистограмма">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
