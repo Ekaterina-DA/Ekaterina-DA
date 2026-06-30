@@ -46,3 +46,19 @@ Here are some ideas to get you started:
   </div>
 </div>
 <hr>
+
+<div id="badges" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+<a href="https://t.me/EkaterinaTimofieieva" >
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+</a>
+<a href="mailto:tymofieieva.ekaterina@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+</a>
+<!-- Вместо MAX — любой другой бейдж из shields.io -->
+<a href="https://max.ru/u/f9LHodD0cOKyYEMJy4JSJAB8no7lPabl9fRun12gHAP06bB9lBym6" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Max-green?style=for-the-badge&logo=slack&logoColor=white" alt="Max" />
+</a>
+</div>
+
+
+
