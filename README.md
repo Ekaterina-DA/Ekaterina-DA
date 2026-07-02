@@ -21,27 +21,31 @@ Here are some ideas to get you started:
         <tbody>
             <tr>
                 <td>                     
-                    <div class="imgs"  >
-                            <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge"  alt="Python" height="40" >
+                    <div class="imgs" align="center">
                             <img src="https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL"  alt="SQL" height="30" >
+                            <img src="https://img.shields.io/badge/MS%20SQL-red?logo=microsoft%20sql%20server&style=for-the-badge&logoColor=white" alt="MS SQL" height="40">
                             <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge"  alt="PostgreSQL" height="30">
+                            <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge"  alt="Python" height="30" >                           
                             <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge"  alt="Pandas" height="30">
                             <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge"  alt="Numpy" height="30">
                             <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" alt="Plotly" height="30">
                             <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge"  alt="Scipy" height="30">
                             <img src="https://img.shields.io/badge/Seaborn-white?logo=Seaborn&logoColor=black&style=for-the-badge"  alt="Seaborn" height="30">
                             <img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&logoColor=black&style=for-the-badge"  alt="Matplotlib" height="30">
-                            <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge"  alt="Jupyter" height="30">
+                            <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge"  alt="Jupyter" height="30">                            
+                            <img src="https://img.shields.io/badge/Superset-blue?logo=apache%20superset&style=for-the-badge&logoColor=white" alt="Superset" height="40">
                             <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge"  alt="Redash" height="30">
                             <img src="https://img.shields.io/badge/Datalens-white?logo=Datalens&style=for-the-badge" title="DataLens" height="30">
+                            <img src="https://img.shields.io/badge/Power%20BI-blue?logo=microsoft%20power%20bi&style=for-the-badge&logoColor=white" alt="Power BI" height="40">
+                            <img src="https://img.shields.io/badge/VBA-orange?style=for-the-badge" alt="VBA" height="40">
                             <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black"  alt="Airflow" height="30">
                             <img src="https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API"  alt="API" height="30">
                             <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT"  alt="GIT" height="30">
                     </div>                    
                 </td>           
                 <td>
-                    <div style="text-align: center;">
-                        <img src="animation_histogram.gif" alt="Гистограмма" height="100" width = "300">
+                    <div align="center">
+                        <img src="animation_histogram.gif" alt="Гистограмма" height="100" width = "280">
                     </div>                    
                 </td>                
             </tr>
